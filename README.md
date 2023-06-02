@@ -1,5 +1,6 @@
 Design patterns are reusable solutions to commonly occurring problems in software design. These patterns provide proven solutions to specific design problems and can be applied to various software development projects. Here are some common design patterns in Java:
 
+
 Singleton Pattern: This pattern ensures that a class has only one instance, and provides a global point of access to that instance.
 
 Factory Pattern: This pattern provides an interface for creating objects, but allows subclasses to alter the type of objects that will be created.
